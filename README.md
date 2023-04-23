@@ -21,3 +21,5 @@ Tasks:
 Metric Choice and Justifiction:
 
 The metric choice and justification for the models will be to use precision, recall, and F1 score. This will allow model performance (true/false positives and negatives) to be compared within classes and across models.
+
+Dataset Link: https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones
