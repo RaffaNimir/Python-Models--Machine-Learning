@@ -1,4 +1,6 @@
-Human Activity Recognition with Smartphones Classifier
+**Human Activity Recognition with Smartphones Classifier**
+
+
 In this module, Naïve Bayes, MaxEnt, and Support Vector classifiers will be fitted to the Human Activity Recognition with Smartphones dataset. The objective is to select a metric to score the quality of the classifiers and justify the choice of metric in the context of a specific problem that the data would address.
 
 Once the metric is chosen, the performance of the three classifiers will be compared, and the classifier that achieves the highest scores will be indicated. Speculation will also be made as to why this might be the case, given our knowledge of the dataset.
